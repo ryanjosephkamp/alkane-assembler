@@ -1,5 +1,15 @@
 # ⚗️ The Alkane Assembler
 
+<!-- AI-PORTFOLIO-NOTICE:START -->
+> **Portfolio note — Spring 2026 AI Research Prototype Portfolio (S26 AIRP)**
+>
+> This repository is part of the **Spring 2026 AI Research Prototype Portfolio (S26 AIRP)**, a portfolio exploring **AI-assisted research software prototyping** and LLM-assisted scientific software development. The code, interface, documentation, and any accompanying reports were developed with substantial AI assistance as part of an exploratory learning workflow.
+>
+> The scientific/domain-specific content is provisional and has not been independently validated by domain experts. This repository should be read as a software-engineering, workflow-design, and AI-methodology artifact, not as validated scientific research.
+>
+> For full context, see [`AI_DISCLOSURE.md`](AI_DISCLOSURE.md).
+<!-- AI-PORTFOLIO-NOTICE:END -->
+
 **Week 4 - Project 1: Tree Generation & Isomer Counting**
 
 ---
